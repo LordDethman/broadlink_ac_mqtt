@@ -189,6 +189,7 @@ class AcToMqtt:
 				,"swing_modes": ["TOP", "MIDDLE1", "MIDDLE2", "MIDDLE3", "BOTTOM", "SWING",  "AUTO"]
 				,"max_temp":32.0
 				,"min_temp":16.0
+				,"temperature_unit":"C"
 				,"precision": 0.5
 				,"temp_step": 0.5 ## @Anonym-tsk
 				,"unique_id": device.status["macaddress"]
